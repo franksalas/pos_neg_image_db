@@ -143,3 +143,5 @@ ENV/
 
 # addons
 config.py
+.DS_Store
+
